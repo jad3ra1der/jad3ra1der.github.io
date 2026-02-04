@@ -1,0 +1,24 @@
+body {
+    background-color: #0a2127;
+}
+h1 {
+    color:#fa2ecd;
+}
+h2 {
+    color:#9359eb;
+}
+p {
+    color:#fa2ecd;
+    background: #4a26be;
+}
+li {
+     color:#9359eb;
+}
+div {
+    width: 100;
+    height: 100;
+    background-color: white;
+    border: 5px solid black;
+    padding: 0%;
+    margin: auto;
+}
